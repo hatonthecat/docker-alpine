@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for docker-alpine-to1wiq on 2026-05-29T12:15:25Z
+# fly.toml app configuration file generated for mac on 2026-05-29T12:43:10Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'docker-alpine-to1wiq'
+app = 'mac'
 primary_region = 'ams'
 
 [build]
